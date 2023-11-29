@@ -122,3 +122,6 @@ There are various approaches, and it depends on what sort of site/application yo
       terminal / GitBash.
   > Whichever Netlify  guide you follow, be sure to do the steps fo adding a `_redirects` file to enable both React SPA 
   > and React with Routing apps to work properly. 
+
+
+PORTFOLIO LINK: https://main--magnificent-marigold-fe528f.netlify.app/
